@@ -16,8 +16,7 @@ echo;
  
 echo "正在把更改提交到远程git服务器... ..."
 git push origin master && git push giteeorigin master && git push codingorigin master
-echo;
- 
 echo "git push complete!"
+echo;
 
 pause
