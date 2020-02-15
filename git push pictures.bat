@@ -14,7 +14,7 @@ set now=%date% %time%
 echo %now%
 git commit -m "%now%"
 echo;
-echo "commit complete£¡"
+echo "commit complete"
 echo;
 echo;
  
